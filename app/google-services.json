@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993224828002",
+    "project_id": "mad-project-79adb",
+    "storage_bucket": "mad-project-79adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993224828002:android:16a94834e5c7f73a0b1d3b",
+        "android_client_info": {
+          "package_name": "com.example.homerental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993224828002-o9mdie8ul4d8fri645cei8l3v2l5v086.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBdoS6nxG3HQd3IkAlMqqUiWpgMF5w30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993224828002-o9mdie8ul4d8fri645cei8l3v2l5v086.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
