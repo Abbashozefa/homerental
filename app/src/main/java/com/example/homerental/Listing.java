@@ -34,6 +34,8 @@ public class Listing extends AppCompatActivity {
 
                 myRef.child("users").child(housename).child("location").setValue(location);
                 myRef.child("users").child(housename).child("price").setValue(Integer.parseInt(price));
+                myRef.child("location").child(location).child(housename).child("location").setValue(location);
+                myRef.child("location").child(location).child(housename).child("price").setValue(Integer.parseInt(price));
                 Toast.makeText(Listing.this, "House is Listed on the market",
                         Toast.LENGTH_LONG).show();
                 housename1.setText("");

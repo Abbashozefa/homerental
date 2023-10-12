@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "993224828002",
-    "project_id": "mad-project-79adb",
-    "storage_bucket": "mad-project-79adb.appspot.com"
+    "project_number": "1022375552548",
+    "project_id": "homerental-4f85e",
+    "storage_bucket": "homerental-4f85e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:993224828002:android:16a94834e5c7f73a0b1d3b",
+        "mobilesdk_app_id": "1:1022375552548:android:95ebf0a127a7c545a91ab1",
         "android_client_info": {
           "package_name": "com.example.homerental"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "993224828002-o9mdie8ul4d8fri645cei8l3v2l5v086.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCrBdoS6nxG3HQd3IkAlMqqUiWpgMF5w30"
+          "current_key": "AIzaSyCfJYK9t5CO_gT1OTFb9L7RP36hfBTEgS0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "993224828002-o9mdie8ul4d8fri645cei8l3v2l5v086.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
