@@ -119,7 +119,7 @@ public class Rentinglist extends AppCompatActivity {
 //        });
 //        String[] loc=new String[5];
 //        String[] pr=new String[5];
-        String[] houses={"Bunglow","Flat","Vikas"};
+        String[] houses={"Bunglow","Flat","Villa"};
         ArrayList<String> house = new ArrayList<String>();
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference myRef = database.getReference("/");
